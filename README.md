@@ -18,4 +18,4 @@
 ![CloudComputing](https://img.shields.io/badge/CloudComputing-pink?style=for-the-badge)
 
 ## 📬 Contact Me
-For any inquiries, please email us at: [berkaydundar08@hotmail.com](berkaydundar08@hotmail.com)
+For any inquiries, please email us at: berkaydundar08@hotmail.com
