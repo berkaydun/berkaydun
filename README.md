@@ -1,4 +1,4 @@
-# "I am a computer science student and I develop projects and applications in the fields of generative AI, data science, machine learning, deep learning, etc. Don't forget to follow me on my social media accounts below 👇
+# I am a computer science student and I develop projects and applications in the fields of generative AI, data science, machine learning, deep learning, etc. Don't forget to follow me on my social media accounts below 👇
 
 ## Let's Connect!
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
