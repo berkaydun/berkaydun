@@ -1,4 +1,4 @@
-# Our aim is to create content on generative AI, data science, machine learning, and deep learning, and try to make these areas understandable for everyone. We are a top writer in AI on Medium and a Kaggle expert. Don't forget to follow us on our social media accounts below 👇
+# "I am a computer science student and I develop projects and applications in the fields of generative AI, data science, machine learning, deep learning, etc. Don't forget to follow me on my social media accounts below 👇
 
 ## Let's Connect!
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
